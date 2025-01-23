@@ -9,7 +9,7 @@
 - Add me on my linkedin! https://www.linkedin.com/in/ethan-sager/
 - Or check out my website: https://ethansager.github.io/ (FYI currently a WIP)
 
-# Things I enjoy:
+## Things I enjoy:
 - Walking my dog Loki 
 - Skiing Biking and Hiking
 - Tinkering on my computer 
