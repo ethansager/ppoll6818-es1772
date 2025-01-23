@@ -10,6 +10,7 @@
 - Or check out my website: https://ethansager.github.io/ (FYI currently a WIP)
 
 ## Things I enjoy:
-- Walking my dog Loki 
+- Walking my dog Loki
+- ![loki](https://github.com/user-attachments/assets/49108746-2183-49aa-9d9a-e4c19bbf0df8)
 - Skiing Biking and Hiking
 - Tinkering on my computer 
